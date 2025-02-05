@@ -1,0 +1,22 @@
+h1 {
+    
+    color:gray;
+}
+h2 {
+    color:gray;
+    font-size:3rem;
+    text-align:center;
+}
+
+ol {
+    list-style-type: none;
+}
+
+li {
+    margin-top:1rem;
+}
+
+a {
+    text-decoration:none;
+    color:rgba(255, 0, 0, 0.429);
+}
